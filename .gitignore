@@ -2,7 +2,7 @@
 /shelf/
 /gitignore/.idea/workspace.xml
 /.idea
-/gitignore
+/gitignore/.idea
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
